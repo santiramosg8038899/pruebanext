@@ -1,0 +1,24 @@
+@charset "utf-8";
+.tex-arriba {
+    color: rgba(255,198,0,1.00);
+    font-weight: bold;
+    font-size: large;
+}
+.titulos {
+    color: rgba(255,198,0,1.00);
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-style: italic;
+    font-weight: bold;
+}
+.textos-pequeños {
+    color: rgba(255,255,255,1.00);
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.textos-ellos {
+    color: rgba(0,0,0,1.00);
+}
+.textos-cartas {
+    color: rgba(0,0,0,1.00);
+}
+.fondoca {
+}
